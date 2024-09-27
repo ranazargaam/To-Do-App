@@ -105,3 +105,16 @@ ul li span{
 li ul span:hover{
  background: #edeef0;
 }
+
+#copyright{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #111133;
+  color: #BBDDFF;
+  text-align: center;
+}
+#copyright a{
+  color: #edeef0;
+}
